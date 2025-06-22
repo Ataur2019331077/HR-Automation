@@ -109,4 +109,4 @@ This project is a comprehensive Human Resources Management System designed to st
 
 ## License
 
-*(Specify the license for your project, e.g., [MIT, Apache 2.0](./LICENSE.md). If it's proprietary, you can state that. Example: "This project is licensed under the MIT License - see the LICENSE.md file for details" or "Proprietary Software.")*
+*(Specify the license for your project, e.g., [MIT, Apache 2.0](./LICENSE). If it's proprietary, you can state that. Example: "This project is licensed under the MIT License - see the LICENSE.md file for details" or "Proprietary Software.")*
